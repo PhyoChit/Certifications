@@ -1,5 +1,6 @@
 # Certifications
 
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/U926E578XEQS)
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/6R55J6LAE7RM)
 - [Google Business Intelligence Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/2QUKREXRQGP3)
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/FM43F7LFT7C9)
